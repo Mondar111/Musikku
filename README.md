@@ -1,5 +1,5 @@
 <h1><p align="center"><a>𝙈𝙐𝙎𝙄𝙆  𝙆𝙐</a><p/><h1/>
-<p align="left"><a href="https://github.com/kenkansaja/Musikku"><img src="https://telegra.ph/file/7286ea5b5a2f8dc66e3ed.jpg"width="300"heigh="100" /></a></p>
+<p align="left"><a href="https://github.com/Mondar111/Musikku"><img src="https://telegra.ph/file/7286ea5b5a2f8dc66e3ed.jpg"width="300"heigh="100" /></a></p>
 
 ---
 ᴍᴜsɪᴋ  ᴋᴜ  ᴀᴅᴀʟᴀʜ  ʀᴇᴘᴏ  ᴄʟᴏɴᴇ  ᴅᴀʀɪ  [ʏᴜᴋᴋɪᴍᴜsɪᴄʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)  ᴛᴀᴘɪ  ʏᴀɴɢ  sᴜᴅᴀʜ  ᴅɪ  ʙᴀʜᴀsᴀ  ɪɴᴅᴏɴᴇsɪᴀᴋᴀɴ  ᴏʟᴇʜ  sᴀʏᴀ,  sᴀʏᴀ  ᴀᴅᴀʟᴀʜ  ᴋᴀɴɢᴇʀ  ʙᴜᴋᴀɴ  ᴄᴏᴅᴇʀ  ᴅᴀɴ  sᴀʏᴀ  ᴍᴀsɪʜ  ᴀᴍᴀᴛɪʀᴀɴ  ᴏᴋᴇʏ
@@ -40,7 +40,7 @@ ___
 ## DEPLOY VPS
 Nih kak cara deploy di vps
 ```console
-musikku@musikku$ git clone https://github.com/kenkansaja/Musikku
+musikku@musikku$ git clone https://github.com/Mondar111/Musikku
 musikku@musikku$ cd Musikku
 musikku@musikku$ bash setup
 musikku@musikku$ screen -S Musikku
