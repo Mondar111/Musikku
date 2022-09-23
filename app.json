@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/kenkansaja/Musikku",
+        "value": "https://t.me/FAMILYNVN",
         "required": true
       },
       "UPSTREAM_BRANCH": {
@@ -90,12 +90,12 @@
       },
       "SUPPORT_CHANNEL": {
         "description": "Tautan Channel Dukungan jika ada, Biarkan kosong jika tidak ada dukungan. Tautan Anda harus dimulai dengan https://t.me/",
-        "value": "https://t.me/gabutan_escape",
+        "value": "https://t.me/FAMILYNVN",
         "required": false
       },
       "SUPPORT_GROUP": {
         "description": "Tautan Group Dukungan jika ada, Biarkan kosong jika tidak ada dukungan. Tautan Anda harus dimulai dengan https://t.me/",
-        "value": "https://t.me/aruna_mutual",
+        "value": "https://t.me/siniajaloh",
         "required": false
       }
     },
